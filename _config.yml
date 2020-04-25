@@ -33,6 +33,7 @@ github_username: ...
 
 # Build settings
 theme: jekyll-theme-minimal
+github: [metadata]
 plugins:
   - jekyll-feed
 # Exclude from processing.
