@@ -1,3 +1,3 @@
-# jospace.github.io
+# jospace.io
 
 My personal blog
