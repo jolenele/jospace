@@ -15,4 +15,4 @@ Lý do mà mình lập nên trang blog này rất đơn giản. Mình đang mắ
 
 So, let's get it started!
 
-P/S: The Jo Space name is inspired by MySpace and Jo (aka Josephine from Little Women, which is my fav character since I was little. That's also short for Jolene - my English name).
+P/S: The Jo Space name is inspired by MySpace and Jo (aka Josephine from Little Women, which is my fav character since I was little).
