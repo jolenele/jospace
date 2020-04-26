@@ -33,8 +33,11 @@ github_username: ...
 
 # Build settings
 github: [metadata]
+markdown: kramdown
+theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-github-metadata
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -55,4 +58,4 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-theme: jekyll-theme-architect
+# theme: jekyll-theme-architect
