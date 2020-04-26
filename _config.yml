@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Like Virginia Woolf once said - “Every secret of a writer’s soul, every experience of his life, every quality of his mind, is written large in his works.”. 
 
   So here you go, welcome to my space!
-baseurl: 'jospace' # the subpath of your site, e.g. /blog
+baseurl: '/jospace' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: renreine
 github_username: ...
