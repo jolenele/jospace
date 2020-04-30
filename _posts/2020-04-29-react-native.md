@@ -2,7 +2,7 @@
 title: 'React Native'
 ---
 
-_Như đã nói mình sẽ viết về một công nghệ gì đấy mà mình thích, thì mình nghĩ đến open-source framework mà mình đã dùng cho project tốt nghiệp và mình thấy khá là thích là React Native._
+_Như đã nói mình sẽ viết về một công nghệ gì đấy mà mình thích, thì mình nghĩ đến một open-source framework mà mình đã dùng cho project tốt nghiệp và mình thấy khá là thích là React Native._
 
 # What is React Native?
 
