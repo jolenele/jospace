@@ -33,6 +33,6 @@ Garnish with two lines of Angostura bitters, you can decorate it into a little f
 
 **Notice for Boston shaker:** If you comming from the foamy egg, remember to shake it softly first to cool down the temperature inside the shaker. When you feel it cool enough, you can create an airtight seal in the shake and really go for it. Or else you might have to do the cleaning.
 
-![My freshly made Whiskey sour](/img/whiskey-sour.jpg){: height="667px"}
+![My freshly made Whiskey sour]({{site.baseurl}}/img/whiskey-sour.jpg){: height="667px"}
 
 _The reason I introduce this recipe is that I like the idea of using egg white to make an ethereal and fluffy drink but not eggy at all._
