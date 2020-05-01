@@ -1,6 +1,5 @@
 ---
 title: 'Whiskey Sour'
-permalink: /FoodAndBeverage/
 ---
 
 _My fav cocktail the traditional Whiskey sour_
