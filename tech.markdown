@@ -26,8 +26,10 @@ This is the landing screen from an Android device. The demo was recorded before 
   <source src="/jospace/img/AndroidOpenApp.mov" type="video/mp4">
 </video>
 
+
 This is a demonstration for clients of how a new user can create an account in the live app.
 
+<br />
 
 ### Angular
 
@@ -53,6 +55,8 @@ This is the Interactive Activity Map as seen from the student view. Each tile co
 
 This is the Interactive Activity Map as seen from the teacher view, where all the tiles have been opened. 
 
+<br />
+
 ### React
 
 **Badminton Scoreboard App**
@@ -66,4 +70,6 @@ Built using React for the frontend, Node.js and Express for the backend, and Mon
   <source src="/jospace/img/badminton.mov" type="video/mp4">
 </video>
 
-Fun fact: I built this web app within 2 days for a Badminton Tournament
+
+
+Fun fact: I built this web app within 2 days for a Badminton Tournament!
