@@ -21,16 +21,15 @@
 title: Jo Space
 email: renreine4x1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-Hey there, I'm Jolene!
-I’m a software developer who loves building things that make life easier, smarter, or just a little more fun. 
+- Hey there, I'm Jolene!
+- I’m a software developer who loves building things that make life easier, smarter, or just a little more fun. 
 
-My toolbox includes JavaScript - React, Angular, React Native, Node.js, TypeScript, C#, Java and Python  
-— plus a sprinkle of design thinking and a whole lot of debugging patience. 
-I’m equally comfortable styling clean UI as I am optimizing backend logic and API calls.
+- My toolbox includes JavaScript - React, Angular, React Native, Node.js, TypeScript, C#, Java and Python — plus a sprinkle of design thinking and a whole lot of debugging patience. 
+- I’m equally comfortable styling clean UI as I am optimizing backend logic and API calls.
 
-I’ve worked solo and in teams, in startups and student labs, and I’m always on the lookout for projects where tech meets purpose.
+- I’ve worked solo and in teams, in startups and student labs, and I’m always on the lookout for projects where tech meets purpose.
 
-When I’m not coding, you’ll probably find me playing badminton, brainstorming side projects over coffee, or learning something random on the internet (like how to make a better stir-fry or train a drone to dance).
+- When I’m not coding, you’ll probably find me playing badminton, brainstorming side projects over coffee, or learning something random on the internet (like how to make a better stir-fry or train a drone to dance).
   
 baseurl: '/jospace' # the subpath of your site, e.g. /blog
 url: 'https://jolenele.github.io' # the base hostname & protocol for your site, e.g. http://example.com
