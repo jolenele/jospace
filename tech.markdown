@@ -39,21 +39,20 @@ Tech Stack: Angular, TypeScript, HTML, CSS/SCSS, RESTful APIs, Bootstrap, MySQL,
 
 As the sole frontend developer, I led the development and optimization of the League for Green Leaders. I collaborated closely with the business analyst to design intuitive UI components, implemented responsive layouts for cross-device compatibility, and improved performance by identifying and addressing rendering bottlenecks. My work contributed to a 15% increase in user retention and a 40% improvement in load times, while also supporting backend integration through API restructuring.
 
-<img src="https://github.com/jolenele/jospace/blob/master/img/map_student.png" alt="drawing" width="400"/>
-
-![StudentView](https://github.com/jolenele/jospace/blob/master/img/map_student.png)
+<img src="./img/map_student.png" alt="drawing" width="400"/>
 
 This is the Interactive Activity Map as seen from the student view. Each tile corresponds to a specific day’s activities. Once all activities are completed, the tile becomes unlocked.
 
 ![Teacher View](https://github.com/jolenele/jospace/blob/master/img/map_teacher.png)
 
-<img src="https://github.com/jolenele/jospace/blob/master/img/map_teacher.png" alt="drawing" width="400"/>
+<img src="./img/map_teacher.png" alt="drawing" width="400"/>
 
 This is the Interactive Activity Map as seen from the teacher view, where all the tiles have been opened. 
 
 ### React
 
 **Badminton Scoreboard App**
+
 A responsive web application designed to track and display badminton match scores in real time. The app supports match setup, live score updates, and match history storage, making it ideal for casual games or tournaments. This is a personal project I built as a hobby.
 
 Built using React for the frontend, Node.js and Express for the backend, and MongoDB for data storage.
