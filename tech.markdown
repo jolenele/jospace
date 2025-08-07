@@ -57,5 +57,5 @@ A responsive web application designed to track and display badminton match score
 Built using React for the frontend, Node.js and Express for the backend, and MongoDB for data storage.
 
 <video width="320" height="240" controls>
-  <source src="/jospace/img/badminton.mp4" type="video/mp4">
+  <source src="/jospace/img/badminton.mov" type="video/mp4">
 </video>
