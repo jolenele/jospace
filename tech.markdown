@@ -3,5 +3,6 @@
 title: Tech
 permalink: /tech/
 ---
+*** Jolene's Porfolio ***
 
-It's all about tech!
+Some of my work with React Native

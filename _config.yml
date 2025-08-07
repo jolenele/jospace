@@ -21,17 +21,17 @@
 title: Jo Space
 email: renreine4x1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This site is just a personal blog belonging to someone unknown. Every piece of her mind will be reflected in these writings.
-
-  Like Virginia Woolf once said - “Every secret of a writer’s soul, every experience of his life, every quality of his mind, is written large in his works.”. 
-
-  So here you go, welcome to my space!
+  
 baseurl: '/jospace' # the subpath of your site, e.g. /blog
 url: 'https://jolenele.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: renreine
 instagram_username: ren.reine
 github_username: ...
+# This site is just a personal blog belonging to someone unknown. Every piece of her mind will be reflected in these writings.
 
+#   Like Virginia Woolf once said - “Every secret of a writer’s soul, every experience of his life, every quality of his mind, is written large in his works.”. 
+
+#   So here you go, welcome to my space!
 # Build settings
 github: [metadata]
 markdown: kramdown
