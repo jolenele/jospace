@@ -41,11 +41,11 @@ As the sole frontend developer, I led the development and optimization of the Le
 
 <img src="./img/map_student.png" alt="drawing" width="400"/>
 
-<!-- ![StudentView](./img/map_student.png) -->
+![StudentView](./img/map_student.png)
 
 This is the Interactive Activity Map as seen from the student view. Each tile corresponds to a specific day’s activities. Once all activities are completed, the tile becomes unlocked.
 
-<!-- ![StudentView](./img/map_teacher.png) -->
+![StudentView](./img/map_teacher.png)
 <img src="./img/map_teacher.png" alt="drawing" width="400"/>
 
 This is the Interactive Activity Map as seen from the teacher view, where all the tiles have been opened. 
