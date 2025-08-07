@@ -60,3 +60,7 @@ Built using React for the frontend, Node.js and Express for the backend, and Mon
 <video width="320" height="240" controls>
   https://raw.githubusercontent.com/jolenele/jospace/master/img/badminton.mov
 </video>
+
+<video width="320" height="240" controls>
+  <source src="/jospace/img/badminton.mp4" type="video/mp4">
+</video>
