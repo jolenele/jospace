@@ -3,7 +3,7 @@
 title: Tech
 permalink: /tech/
 ---
-# H1 Jolene's Porfolio 
+# Jolene's Porfolio 
 
 ### React Native
 
@@ -17,13 +17,13 @@ A cross-platform mobile application that allows residents in a shared building t
 </video>
 
 
-This is the Landing Screen from an Android device. This demo is before I optimized the loading time.
+This is the landing screen from an Android device. The demo was recorded before I optimized the loading time by 63% — reducing it from 8 seconds to 3 seconds — by streamlining API calls and implementing lazy loading for heavy components and images.
 
 <video width="320" height="240" controls>
   <source src="/jospace/img/AndroidOpenApp.mov" type="video/mp4">
 </video>
 
-This is a demo to client how a new user can create accounts with the running app.
+This is a demonstration for clients of how a new user can create an account in the live app.
 
 
 ### Angular
