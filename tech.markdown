@@ -13,7 +13,7 @@ A cross-platform mobile application that allows residents in a shared building t
 
 
 <video width="320" height="240" controls>
-  <source src="./img/AndroidLogin.mov" type="video/mp4">
+  <source src="https://github.com/jolenele/jospace/blob/master/img/AndroidOpenApp.mov" type="video/mp4">
 </video>
 
 This is the Landing Screen from an Android device. This demo is before I optimized the loading time.
