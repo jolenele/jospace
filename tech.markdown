@@ -19,7 +19,7 @@ A cross-platform mobile application that allows residents in a shared building t
 This is the Landing Screen from an Android device. This demo is before I optimized the loading time.
 
 <video width="320" height="240" controls>
-  <source src="./img/AndroidOpenApp.mov" type="video/mp4">
+  <source src="/img/AndroidOpenApp.mov" type="video/mp4">
 </video>
 
 This is a demo to client how a new user can create accounts with the running app.
@@ -39,7 +39,7 @@ Tech Stack: Angular, TypeScript, HTML, CSS/SCSS, RESTful APIs, Bootstrap, MySQL,
 
 As the sole frontend developer, I led the development and optimization of the League for Green Leaders. I collaborated closely with the business analyst to design intuitive UI components, implemented responsive layouts for cross-device compatibility, and improved performance by identifying and addressing rendering bottlenecks. My work contributed to a 15% increase in user retention and a 40% improvement in load times, while also supporting backend integration through API restructuring.
 
-<img src="./img/map_student.png" alt="drawing" width="400"/>
+<img src="/img/map_student.png" alt="drawing" width="400"/>
 
 This is the Interactive Activity Map as seen from the student view. Each tile corresponds to a specific day’s activities. Once all activities are completed, the tile becomes unlocked.
 
