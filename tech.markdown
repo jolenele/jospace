@@ -3,7 +3,7 @@
 title: Tech
 permalink: /tech/
 ---
-# Jolene's Porfolio 
+# Jolene's Portfolio 
 
 ### React Native
 
@@ -59,7 +59,7 @@ This is the Interactive Activity Map as seen from the teacher view, where all th
 
 ### React
 
-**Badminton Scoreboard App**
+**Badminton Scoreboard App**   [Website](https://badmintonscoreboard.vercel.app/)
 
 A responsive web application designed to track and display badminton match scores in real time. The app supports match setup, live score updates, and match history storage, making it ideal for casual games or tournaments. This is a personal project I built as a hobby.
 
@@ -72,4 +72,4 @@ Built using React for the frontend, Node.js and Express for the backend, and Mon
 
 
 
-Fun fact: I built this web app within 2 days for a Badminton Tournament!
+*Fun fact:* I built this web app within 2 days for a Badminton Tournament!
