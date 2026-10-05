@@ -9,7 +9,7 @@ permalink: /tech/
 ## XumanAI — AI-Powered Service Platform
 [Website](https://www.xuman.ai/)
 
-**Frontend Engineer | React Native, Next.js, TypeScript, Tailwind CSS**
+**Frontend Engineer: React Native, Next.js, TypeScript, Tailwind CSS**
 
 XumanAI is an AI-powered platform designed to make finding, connecting with, and booking service providers simple and intuitive.
 
@@ -32,7 +32,7 @@ I collaborated closely with backend and AI/ML engineers on API integration, appl
 
 ## League for Green Leaders
 
-**Web Programmer | Angular**
+**Web Programmer: Angular**
 
 [Website](https://leagueforgreenleaders.springbaystudio.org/)
 
@@ -63,7 +63,7 @@ My work contributed to a **15% increase in user retention** and a **40% improvem
 
 ## Kitchen Library App
 
-**Cross-Platform Mobile Application | React Native**
+**Cross-Platform Mobile Application: React Native**
 
 A cross-platform mobile application that allows residents of a shared building to borrow and return kitchen appliances. The product was designed to encourage community sharing and reduce waste while keeping the borrowing experience simple.
 
@@ -91,7 +91,7 @@ The demo above shows the new-user account creation flow in the live application.
 
 ## Badminton Scoreboard
 
-**Personal Project | React**
+**Personal Project: React**
 
 [Website](https://badmintonscoreboard.vercel.app/)
 
