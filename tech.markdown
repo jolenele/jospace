@@ -8,6 +8,7 @@ permalink: /tech/
 
 ## XumanAI — AI-Powered Service Platform
 [Website](https://www.xuman.ai/)
+
 **Frontend Engineer | React Native, Next.js, TypeScript, Tailwind CSS**
 
 XumanAI is an AI-powered platform designed to make finding, connecting with, and booking service providers simple and intuitive.
@@ -74,7 +75,7 @@ Users can browse available appliances, check availability, make reservations, an
   <source src="/jospace/img/AndroidLogin.mov" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
+<br/>
 ### Performance Optimization
 
 The original landing experience took approximately eight seconds to load. I streamlined API calls and introduced lazy loading for heavier components and images, reducing the loading time to approximately three seconds — a **63% improvement**.
@@ -102,5 +103,6 @@ A responsive web application for tracking badminton match scores in real time. T
   <source src="/jospace/img/badminton.mov" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+<br/>
 
 **Fun fact:** I designed and built this application in two days for a badminton tournament.
